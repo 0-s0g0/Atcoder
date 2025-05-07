@@ -19,6 +19,7 @@ for j in B_row:
         if len(l)==1:
             count+=1
         #print(j,l)
+
     print(count)           
 
 
